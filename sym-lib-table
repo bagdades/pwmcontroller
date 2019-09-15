@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "pwmcontroller-rescue")(type "Legacy")(uri "${KIPRJMOD}/pwmcontroller-rescue.lib")(options "")(descr ""))
+)
